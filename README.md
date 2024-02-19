@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**daduque56/daduque56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m an Industrial Design student, at Pontificia Universidad Javeriana, with an emphasis on project management in the game dev industry!
 
-Here are some ideas to get you started:
+At the moment I am at an international Exchange program in Seville, Spain, at Loyola University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm here to learn and work as much as I can! 
+
+- 🔭 I’m currently working on creating a Videogame Engine and im also the head of the direction dept. of an indie game at a course in Loyola University.
+- 🌱 I’m currently learning physic´s en simulation engines for videogames, Python, Javascript and C++.
+- 🫂 I’m looking to collaborate on starting projects for people on a learning process!
+- 📫 How to reach me: via email on davidduquebolanos01@gmail.com or a dm on ig at @d.aduque.
+
+- You can check some previous projects I´ve on at https://www.semillerovideojuegos.org/ 
+
+
